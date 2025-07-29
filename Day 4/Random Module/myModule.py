@@ -1,0 +1,1 @@
+my_favourite_number: float = 3.145
